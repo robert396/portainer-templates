@@ -1,0 +1,11 @@
+[
+	{
+		"title": "whoami",
+		"description": "Short description is empty for this repo.",
+		"categories": ["examples"],
+		"platform": "linux",
+		"logo": "",
+		"image": "jwilder/whoami",
+		"ports": ["8000/tcp"]
+	}
+]
